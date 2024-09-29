@@ -1,6 +1,6 @@
 # Moments-Backend
 
-Moments is a backend service for a photo-sharing iOS app that allows users to create events, upload photos, and manage albums. Built with **Django**, **Django REST Framework (DRF)**, and using **PostgreSQL** as the database, the app features JWT-based authentication for secure interactions.
+Moments Backend is a backend service for a photo-sharing iOS app that allows users to create events, upload photos, and manage albums. Built with **Django**, **Django REST Framework (DRF)**, and using **PostgreSQL** as the database, the app features JWT-based authentication for secure interactions.
 
 ## Features
 
